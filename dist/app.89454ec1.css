@@ -1,0 +1,17 @@
+.jumbotron {
+  background-color: white;
+  padding-top: 2rem;
+}
+
+.display-4 {
+  margin-bottom: 10px;
+}
+
+#toast {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 15px;
+  z-index: 9;
+}
+/*# sourceMappingURL=app.89454ec1.css.map */
